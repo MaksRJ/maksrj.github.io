@@ -1,4 +1,3 @@
 # maksrj.github.io
 
-lhkjh
-blank
+blank new tab for chrome
